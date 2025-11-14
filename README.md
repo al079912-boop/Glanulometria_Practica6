@@ -1,14 +1,14 @@
-# #Análisis Granulométrico Automatizado con Python
+ #Análisis Granulométrico Automatizado con Python
 
 Práctica 6 – Modelado de Problemas en Ingeniería Civil
 
-#📘 Descripción del Proyecto
+ #📘 Descripción del Proyecto
 
 Este proyecto presenta un modelo computacional para automatizar el análisis granulométrico de suelos, utilizando Python para calcular los parámetros característicos del suelo, generar la curva granulométrica y producir un reporte completo en PDF.
 
 El análisis granulométrico es un procedimiento fundamental en ingeniería civil, utilizado para determinar la distribución por tamaños de las partículas que conforman un suelo y definir su clasificación dentro del sistema SUCS.
 
-#🎯 Objetivos
+ #🎯 Objetivos
 
 Modelar un problema real de ingeniería civil mediante programación.
 
